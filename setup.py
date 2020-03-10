@@ -35,6 +35,6 @@ setuptools.setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    keywords='cui cli commandline user-interface ui',
+    keywords='tui cui cli commandline user-interface ui',
     python_requires='>=3.2',
 )
